@@ -3,6 +3,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: #1a2930;
+  
 }
 
 .counterButton {
@@ -19,4 +21,15 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  
+}
+
+.wrapper{
+  background-color: #c5c1c0;
+  padding: 50px;
+  border-radius: 30px;
+
+}
+.backG{
+  background-color: #1a2930;
 }
